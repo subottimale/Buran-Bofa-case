@@ -1,7 +1,7 @@
 # Sample Pics & Suggestions. Not a real guide!
 <br>
 <br>
-Whether you're using the custom top-mount plate provided in this repository or the gasket-mount plate from the original Buran design, you'll need a handful of M2 heatset inserts (max 6mm length recommended).
+Whether you're using the custom top-mount plate provided in this repository or the gasket-mount plate from the original Buran design, you'll need a handful of M2 heatset inserts (4mm length recommended).
 <br>
 <br>
 The case itself is secured at 10 points. I find all are necessary.
